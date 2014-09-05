@@ -26,7 +26,9 @@ When we install the driver and enable it. We should see "/sys/devices/platform/c
 |011  		|Purple		|
 |101  		|Aqua		|
 
-|Other Keyboard Combinations|
+Other Keyboard Options We can use for give keyboard light effects or only change part of keyboard(left,middile,right) or any custom option would you like to have it. 
+
+|Keyboard Options|
 | ------------ | 
 |all_off       |     
 |fade  	       |
