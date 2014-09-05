@@ -15,15 +15,16 @@ When we install the driver and enable it. We should see "/sys/devices/platform/c
 
 ## Color palatte codes
 
-GRB (Green-Red-Blue)
-|000 - |Off
-|111 - |White
-|100 - |Green
-|010 - |Red
-|001 - |Blue
-|110 - |Yellow
-|011 - |Purple
-|101 - |Aqua
+|  RGB Color	| Color List	|
+| ------------- | ------------- |
+|000  		|Off		|
+|111  		|White		|
+|100  		|Green		|
+|010  		|Red		|
+|001  		|Blue		|
+|110  		|Yellow		|
+|011  		|Purple		|
+|101  		|Aqua		|
 
 ## Other Keyboard Combinations
 ------------ 
