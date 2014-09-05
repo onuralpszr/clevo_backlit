@@ -26,8 +26,8 @@ When we install the driver and enable it. We should see "/sys/devices/platform/c
 |011  		|Purple		|
 |101  		|Aqua		|
 
-## Other Keyboard Combinations
-|--------------| 
+|Other Keyboard Combinations|
+| ------------ | 
 |all_off       |     
 |fade  	       |
 |left_right    |  
