@@ -27,21 +27,21 @@ When we install the driver and enable it. We should see "/sys/devices/platform/c
 |101  		|Aqua		|
 
 ## Other Keyboard Combinations
------------- 
-|all_off     
-|fade  
-|left_right  
-|out_mid      
-|random       
-|random_flicker  
-|right
-|brightness  
-|left  
-|middle      
-|pattern_off  
-|random_fade  
-|raw             
-|single_fade
+|--------------| 
+|all_off       |     
+|fade  	       |
+|left_right    |  
+|out_mid       |
+|random        |
+|random_flicker|  
+|right 	       |
+|brightness    |  
+|left  	       |
+|middle        | 
+|pattern_off   |  
+|random_fade   |  
+|raw           |     
+|single_fade   |
 
 
 
