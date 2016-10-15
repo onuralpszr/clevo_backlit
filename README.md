@@ -3,9 +3,9 @@ clevo_backlit
 
 Clevo Keyboard Backlit Driver 
 
-Originally Clevo_wmi driver has to be compile everytime when we install new kernel but this configuration has added DKMS support for this driver We don't have re-compile all the time.
+Originally Clevo_wmi driver has to be compiled everytime when we install a new kernel but this configuration has added DKMS support for this driver We don't have re-compiled all the time.
 
-When we install the driver and enable it. We should see "/sys/devices/platform/clevo_wmi/kbled" this directory and in that directory we should able change backlit color,give effect and all other stuff we can do it. 
+When we installed the driver and enable it, we should see "/sys/devices/platform/clevo_wmi/kbled" this directory and in that directory we should able to change backlit color, predefined color effects.  
 
 ## Example Usage
 
@@ -26,7 +26,8 @@ When we install the driver and enable it. We should see "/sys/devices/platform/c
 |011  		|Purple		|
 |101  		|Aqua		|
 
-Other Keyboard Options We can use for give keyboard light effects or only change part of keyboard(left,middile,right) or any custom option would you like to have it. 
+
+Keyboard Options;  We could do to change keyboard light effects or only change part of keyboard(left,middile,right) or any custom you can define option would you like to have it. 
 
 |Keyboard Options|
 | ------------ | 
